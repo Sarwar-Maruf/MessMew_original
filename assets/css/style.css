@@ -107,7 +107,7 @@ html {
 
 body {
   /* background: var(--rich-black-fogra-39); */
-  background: url("/assets/images/Mess\ Mew_final_back1.gif");
+  background: url("./assets/images/Mess_Mew_final_back1.gif");
   background-position: no-repeat;
   min-width: 280px;
 }
