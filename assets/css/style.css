@@ -107,7 +107,7 @@ html {
 
 body {
   /* background: var(--rich-black-fogra-39); */
-  background: url("./assets/images/Mess\ Mew_final_back1.gif");
+  background: url("/assets/images/Mess\ Mew_final_back1.gif");
   background-position: no-repeat;
   min-width: 280px;
 }
@@ -341,7 +341,7 @@ header .container {
 
 .new-product {
   /* background: var(--eerie-black-2); */
-  background: url("./assets/images/Mess\ Mew_sec2.gif");
+  background: url("/assets/images/Mess\ Mew_sec2.gif");
   padding: 60px 0;
 }
 
